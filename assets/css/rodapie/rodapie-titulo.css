@@ -4,6 +4,11 @@
     font-weight: 400;
     font-size: 1.25rem;
     align-items: center;
-    padding: 1.5625rem;
-    
+    padding: 1.5625rem;    
+}
+
+@media (max-width: 767px) {
+    .rodapie__titulo {
+        order: 3;
+    }
 }

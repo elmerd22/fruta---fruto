@@ -4,3 +4,11 @@
     margin-left: 5rem;
     color: #8C8888;
 }
+
+@media (max-width: 767px) {
+    .rodapie__descripcion {
+        margin: 0;
+        font-size: 1.5rem;
+        padding: 1.5625rem;
+    }
+}
